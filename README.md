@@ -1,7 +1,7 @@
 # Example: Run Nginx Web Server in Gitpod.io
 
 Nginx is included in Gitpod's [workspace-full](https://hub.docker.com/r/gitpod/workspace-full) docker image.
-This example shows how to interact and configure Nginx. Configuration is optionl, since a default configuration is included in workspace-full.
+This example shows how to interact with Nginx and how to configure Nginx. Configuration is optionl, since a default configuration is included in workspace-full.
 
 ## Try or Contribute
 
