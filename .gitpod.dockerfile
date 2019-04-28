@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full:branch-apache
+FROM gitpod/workspace-full:latest
 
 # optional: use a custom Nginx config.
 COPY nginx.conf /etc/nginx/nginx.conf
